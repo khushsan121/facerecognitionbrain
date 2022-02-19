@@ -1,4 +1,4 @@
-# SmartBrain - v3
+# SmartBrain
 
 
 1. Clone this repo
